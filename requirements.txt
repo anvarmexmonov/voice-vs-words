@@ -1,0 +1,12 @@
+torch>=2.3
+transformers>=4.45
+accelerate
+bitsandbytes
+librosa
+soundfile
+opensmile
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm

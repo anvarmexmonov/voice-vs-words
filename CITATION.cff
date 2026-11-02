@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these findings or code, please cite this repository."
+title: "Voice vs. Words: Where Audio LLMs Lose the Tone of Voice"
+authors:
+  - family-names: Abdullaev
+    given-names: Azizbek
+    affiliation: "Tashkent University of Information Technologies"
+date-released: 2026-11-02
+license: MIT
+type: software

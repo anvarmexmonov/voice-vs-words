@@ -1,0 +1,25 @@
+# data and big outputs
+data/**/*.wav
+data/**/*.flac
+data/mixed/
+data/conflict_only/
+*.npy
+*.npz
+*.pt
+*.safetensors
+cache*/
+results/**/cache*
+
+# PRIVATE: unreleased method, never commit
+exp4*
+exp5*
+exp6*
+exp_4_1/
+results/exp4/
+results/exp5/
+results/exp6/
+private/
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
