@@ -1,6 +1,6 @@
 # Voice vs. Words: Where Audio LLMs Lose the Tone of Voice
 
-**Azizbek Abdullaev** · Tashkent University of Information Technologies (TATU) · azizhan.abdullayev.99@gmail.com
+**Anvar Mexmonov** · Tashkent University of Information Technologies (TATU) · mexmonovanvarbek@gmail.com
 *Ongoing research, last updated November 2026.*
 
 > Say *"I'm so happy!"* in an angry voice and ask Qwen2-Audio how the speaker sounds. It answers **"happy"**.
